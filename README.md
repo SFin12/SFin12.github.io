@@ -1,1 +1,2 @@
-# SFin12.github.io
+# SFin12 Initial Github Pages Website
+## Learning to use github pages
