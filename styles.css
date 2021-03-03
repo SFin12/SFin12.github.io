@@ -1,0 +1,84 @@
+
+body {
+  text-align: center;
+  margin: 0 auto;
+  font-family: Georgia, serif;
+  font-size: 1em;
+  color: khaki;
+  background: rgb(30,25,50)
+  
+}
+
+h1 {
+  text-align: center;
+}
+
+label {
+  font-size: 1.3em;
+  text-align: left;
+  position: left;
+  margin: 10px;
+}
+
+table{
+  border: 3px double rgb(0, 0, 0);
+  width: 90%;
+  margin: 10px auto;
+  font-family: monospace;
+}
+
+tr {
+  text-align: left;
+  background: rgb(75,65,95)
+  
+}
+
+tr:nth-child(even) {
+  background: rgb(45,35,65);
+}
+
+tr:hover {
+  background:rgb(30,25,50);
+  color:khaki;
+  font-size: 1.2em;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+th{
+  font-family: Georgia, serif;
+  font-size: 1.2em;
+  padding:10px;
+}
+
+td {
+  margin: 5px;
+  padding: 10px;
+}
+
+.type {
+  font-weight: lighter;
+  font-style: italic;
+  font-size: .9em;
+}
+
+#tag {
+  width: 5em;
+}
+#description {
+  width: 70%;
+}
+
+footer {
+  margin: 40px 10px;
+  font-style: italic;
+  font-size: 1.2em;
+}
+
+img.resize {
+  margin: 40px auto;
+  border: 3px groove whitesmoke;
+  max-width: 20%;
+  max-height: 20%;
+  
+}
+
